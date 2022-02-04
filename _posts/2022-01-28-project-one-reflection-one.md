@@ -9,7 +9,7 @@ tags: jekyll
 thumbnail: /assets/img/posts/code.jpg
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
 usemathjax: false
-permalink: /blog/project-one-reflection-two/
+permalink: /blog/project-one-reflection-one/
 ---
 
 ## Project 1 Reflection 1
