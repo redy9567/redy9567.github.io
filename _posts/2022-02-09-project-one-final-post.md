@@ -6,13 +6,13 @@ author: redy9567
 date: '2022-02-09 12:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll
-thumbnail: /assets/img/posts/Project1Post.png
+thumbnail: redy9567.github.io/assets/img/posts/Project1Post.png
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
 usemathjax: true
 permalink: /blog/project-one-final-post/
 ---
 
-## Personal Graphics Drawing Library TT
+## Personal Graphics Drawing Library 
 
 Over the past few weeks, I've been looking into the possibility of creating my very own Graphics Library. One of my favorite areas of Game Development is how code is structured in the architecture of the game. In my studies, I have spend a lot of time learning how best to program Game Architecture, while optimizing memory and the speed of your program. Through all of my time writing decoupled code, I have always used some sort of Graphics Library that was publicly accessable from the Internet. When I first studied Game Arcitecture, I initially used Allegro, and more recently, I have been exploring a library called RayLib. Recently, this has sparked my interest to create a library of my own. For me, it is tons of fun to dive in to lower level code and explore all that I have access to adjust or manipulate. For this project, I decided to explore Win32 API.
 
