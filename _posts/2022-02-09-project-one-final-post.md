@@ -3,7 +3,7 @@ layout: post
 title:  "Personal Graphics Drawing Library"
 summary: "When you feel like building Architexture from scratch."
 author: redy9567
-date: '2022-02-10 12:35:23 +0530'
+date: '2022-02-09 12:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll
 thumbnail: /assets/img/posts/Project1Post.png
@@ -88,9 +88,7 @@ int main()
 }
 ```
 
-And with all of the pieces in place, I obtained this as the final output!
-
-![Final Image](/assets/img/posts/Project1Post)
+And with all of the pieces in place, I obtained the final output shown above!
 
 After 3 weeks of work, I ended up with a product that I am very proud of! Visually, it doesn't look like much, but Game Architecture is the foundation that Video Games are build upon, and as every house is as strong as its foundation, every game is as impressive as the architecture that it was built upon. Poorly build architecture can lead to cracks in the game, possibly plummeting performance. However, finely tuned architecture can enable Game Developers to do their jobs at the highest level, granting a rich and wholesome experience to the consumer on the other end.
 
