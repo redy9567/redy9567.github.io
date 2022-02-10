@@ -9,7 +9,7 @@ tags: jekyll
 thumbnail: /assets/img/posts/Project1Post.png
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
 usemathjax: false
-permalink: /blog/personal-graphics-drawing-library/
+permalink: /blog/project-one-final-post/
 ---
 
 ## Personal Graphics Drawing Library
