@@ -6,7 +6,7 @@ author: redy9567
 date: '2022-02-09 12:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll
-thumbnail: /assets/img/posts/Project1Post.png
+thumbnail: "/assets/img/posts/Project1Post.png"
 keywords: devlopr jekyll, how to use devlopr, devlopr, how to use devlopr-jekyll, devlopr-jekyll tutorial,best jekyll themes, multi categories and tags
 usemathjax: false
 permalink: /blog/project-one-final-post/
