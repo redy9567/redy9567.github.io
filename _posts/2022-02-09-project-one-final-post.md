@@ -90,8 +90,6 @@ int main()
 
 And with all of the pieces in place, I obtained the final output shown above!
 
-![Final Image Result](/assets/img/posts/Project1Post.png)
-
 After 3 weeks of work, I ended up with a product that I am very proud of! Visually, it doesn't look like much, but Game Architecture is the foundation that Video Games are build upon, and as every house is as strong as its foundation, every game is as impressive as the architecture that it was built upon. Poorly build architecture can lead to cracks in the game, possibly plummeting performance. However, finely tuned architecture can enable Game Developers to do their jobs at the highest level, granting a rich and wholesome experience to the consumer on the other end.
 
 Reflecting on this project, there is so much more that could be done! While working on this project, I was able to abstract a lot of data, but there is still a lot more abstraction that could be done. For example, the drawEllipse function could accept parameters to draw different ellipses, rather than the hardcoded one in. I could've expanded the GraphicsBuffer and created a Sprite class, which could point to a small section of the GraphicsBuffer. Doing this would give me more control of the lower level code than what I had in Allegro or RayLib, and while this makes it much harder and time consuming to figure out how to best carry out these game tasks, it gives you a lot more flexibility if you were working in a personalized environment suited to the game that you were developing.
