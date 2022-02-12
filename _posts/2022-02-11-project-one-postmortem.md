@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Personal Graphics Drawing Library"
-summary: "When you feel like building Architexture from scratch."
+title:  "Personal Graphics Drawing Library Postmortem"
+summary: "Reflecting on the magic."
 author: redy9567
 date: '2022-02-11 12:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
