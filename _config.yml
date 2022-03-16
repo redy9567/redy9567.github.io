@@ -1,5 +1,5 @@
-title: devlopr
-subtitle: A Portfolio Jekyll Theme Built for Developers
+title: Brandon L'Abbe
+subtitle: Tools & Pipeline Programmer
 description: >- # this means to ignore newlines until "baseurl:"
   devlopr-jekyll is a beautiful Jekyll Theme Built For Developers, which is optimized for speed and readability.
 
@@ -10,7 +10,6 @@ baseurl: "" # the subpath of your site, e.g. /blog
 urls:
     - text: Home
       url: /
-      
     - text: About
       url: /about
     - text: Blog
@@ -25,10 +24,10 @@ urls:
 
 # Edit Author details (For multi authors check _data/authors.yml)
 
-author_logo: profile.png
+author_logo: BrandonBitmoji.png
 author: Brandon L'Abbe
-author_bio: Hi, my name is John Doe. I built this site using devlopr-jekyll :D
-author_email: "mail@sujaykundu.com"
+author_bio: Hi, my name is Brandon L'Abbe. I am currently a 4th-year Game Programming student at Champlain College in Burlington, Vermont. After graduation, I hope to start my career as a Tools & Pipeline programmer in the industry. But I also have interests in programming Engine or working with Systems.
+author_email: "brandonjlabbe@gmail.com"
 author_location: India
 author_website_url: "https://sujaykundu.com"
 typewrite-text: devlopr is a jekyll framework built for developers. You can edit this in _config.yml file
