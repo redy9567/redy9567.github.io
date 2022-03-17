@@ -39,7 +39,7 @@ author_work_experiences:
               company_logo: SGA_Logo.png
               company_url: https://champlain.edu
               designation: Student Government Association President
-              description: Restructured Student Government to better represent the Greater Student Body.  Ensured operations of Clubs, Finance, Operations, and Communications to promote change within Champlain College. <br> Presented these issues to the College President's Cabinet to create innovative solutions. Nope!
+              description: - Restructured Student Government to better represent the Greater Student Body. <br>- Ensured operations of Clubs, Finance, Operations, and Communications to promote change within Champlain College. <br>- Presented these issues to the College President's Cabinet to create innovative solutions.
               visibility: true
             - company_name: Placeholder
               company_logo: microsoft.png
@@ -53,7 +53,7 @@ author_education_details:
               - college_logo: Champlain_College_seal.png
                 college_name: Champlain College
                 college_url: https://champlain.edu
-                college_degree: Game Programming
+                college_degree: Game Programming <br>Minor in Mathematics
                 description: Bachelor of Science
                 visibility: true
 
