@@ -2,7 +2,7 @@
 layout: post
 title:  "Greybox Generation Tool Reflection 2"
 summary: "Reflecting upon my workflow"
-author: redy9567
+author: brandonlabbe
 date: '2022-02-27 12:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll

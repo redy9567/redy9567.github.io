@@ -2,7 +2,7 @@
 layout: post
 title:  "Personal Graphics Drawing Library"
 summary: "When you feel like building Architexture from scratch."
-author: redy9567
+author: brandonlabbe
 date: '2022-02-09 12:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll

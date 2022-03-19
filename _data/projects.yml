@@ -1,0 +1,29 @@
+-
+  title: Project Nautalis
+  directory: nautalis
+  preview:
+    filename: PlacingBeacon.gif
+    original: PlacingBeacon.gif
+    sizes:
+    - PlacingBeacon.gif
+    thumbnail: PlacingBeacon.gif
+    
+-
+  title: D.A.V.E.
+  directory: dave
+  preview:
+    filename: daveGif.gif
+    original: daveGif.gif
+    sizes:
+    - daveGif.gif
+    thumbnail: daveGif.gif
+ 
+- 
+  title: Hold Down the Shop
+  directory: shop
+  preview:
+    filename: shopGif.gif
+    original: shopGif.gif
+    sizes:
+    - shopGif.gif
+    thumbnail: shopGif.gif

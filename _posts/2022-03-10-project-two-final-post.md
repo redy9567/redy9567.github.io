@@ -2,7 +2,7 @@
 layout: post
 title:  "Greybox Generation Tool"
 summary: "Greyboxing. For an efficient workflow."
-author: redy9567
+author: brandonlabbe
 date: '2022-03-10 01:35:23 +0530'
 category: ['jekyll','guides', 'sample_category']
 tags: jekyll
