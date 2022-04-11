@@ -12,12 +12,12 @@ urls:
       url: /
     - text: About
       url: /about
+    - text: Game Projects
+      url: /game-projects
+    - text: Tool Projects
+      url: /tool-projects
     - text: Blog
       url: /blog
-    - text: Gallery
-      url: /gallery
-    - text: Shop
-      url : /shop
     - text: Contact
       url : /contact
 
@@ -41,12 +41,24 @@ author_work_experiences:
               designation: Student Government Association President
               description: "- Restructured Student Government to better represent the Greater Student Body. <br>- Ensured operations of Clubs, Finance, Operations, and Communications to promote change within Champlain College. <br>- Presented these issues to the College President's Cabinet to create innovative solutions."
               visibility: true
-            - company_name: Placeholder
-              company_logo: microsoft.png
-              company_url: https://microsoft.com
-              designation: Azure Developer
-              description: Worked on various Azure Cloud Products
-              visibility: false
+              height: 300
+              width: 300
+            - company_name: Game Developers Conference
+              company_logo: gdc.png
+              company_url: https://gdconf.com
+              designation: Conference Associate
+              description: Helped ensure Attendees had the best possible experience.
+              visibility: true
+              height: 150
+              width: 300
+            - company_name: Ubisoft Game Lab Competition
+              company_logo: ubi.png
+              company_url: https://montreal.ubisoft.com/en/our-engagements/education/game-lab-competition/
+              designation: Competitor
+              description: Competed with other schools around Quebec in their Game Lab Competition in 2021.
+              visibility: true
+              height: 100
+              widht: 300
 
 # Education
 author_education_details:
@@ -94,7 +106,7 @@ linkedin_username: brandon-j-labbe
 #mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # contact form - (choose formspress or getform)
-# getform_endpoint: 83b703c3-9e47-4df4-ac55-e24d7eb02abc
+getform_endpoint: 7273be27-981c-4a83-80a8-d163ad9f47fc
 formspree_email: brandonjlabbe@gmail.com
 
 # releases - widget can be (sidebar, modal or embed)
