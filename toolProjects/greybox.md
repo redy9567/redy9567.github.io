@@ -5,7 +5,7 @@ title: Unity Greyboxing Tool
 
 ## Unity Greyboxing Tool
 
-<img src="{{site.url}}{{site.baseurl}}/assets/img/toolProjects/greybox/greybox.png" width="800" height="600">
+<img src="{{site.url}}{{site.baseurl}}/assets/img/toolProjects/greybox/greybox.png" width="600" height="450">
 
 One of the most common and tedious tasks for Game Designers is the task of Greyboxing. If you are unfamiliar, greyboxing is when a Game Designer creates the rough physical space of a level using only grey boxes (hence the name). This is useful because it allows Designers to create the space of a level to design the gameplay for a game within that space, without needing all of the assets of the project to be complete. Once an artist finishes an art piece, they can simply replace a piece of the greybox with the piece of art with minimal impact to the gameplay of the level itself. One could use Unity to repeatively create Primitive Cubes, but that can take up a lot of time, so most Designers user a Unity Plugin called ProBuilder. I, however, wanted to task myself with creating a tool from scratch. Unity has a powerful Tool Development environment, and through this project, I was able to really get a grasp at what I could actually accomplish with it.
 
@@ -47,6 +47,6 @@ At this point, I was very happy with my work, but I still felt it could be more 
 	}
 ```
 
-With this implementation, I went back and removed the handle sphere funtionality, as the Unity Handles made it a lot more intuitive. I also integrated it with Unity's Undo system, so you can quickly undo any mistakes that are made along the way. This code snip above only scratches the surface, and I really recommend that you look at my full GitHub repo of the project! You can find the link here: https://github.com/redy9567/PortfolioProject2
+With this implementation, I went back and removed the handle sphere funtionality, as the Unity Handles made it a lot more intuitive. I also integrated it with Unity's Undo system, so you can quickly undo any mistakes that are made along the way. This code snip above only scratches the surface, and I really recommend that you look at my full GitHub repo of the project! You can find the link here: <a href="https://github.com/redy9567/PortfolioProject2">Code</a>
 
 Reflecting on this project, I was really happy with the outcome, and I learned a lot through the process. Watching Freya's content really got me excited about the work that Tools & Pipeline programmers do on a day-to-day basis. On the surface, I thought that creating Unity Handles would be a long and complicated process, but it was very simple. Going forward, I would like to spend more time understanding all of the different Unity Classes than can help out with creating useful and intuitive tools. The Handles class was a massive help when drawing anything to the screen, and I only hope to learn about other classes that may help out in other contexts. Moving on, this project may be something that I tweak here and there, but overall, I'm super excited to learn more about optimizing workflow.
