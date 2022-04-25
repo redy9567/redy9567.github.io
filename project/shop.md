@@ -5,7 +5,7 @@ title: Hold Down the Shop
 
 ## Hold Down the Shop
 
-<img src="{{site.url}}{{site.baseurl}}/assets/img/project/shop/shopGif.gif" width="800" height="600">
+<img src="{{site.url}}{{site.baseurl}}/assets/img/project/shop/shopGif.gif" width="600" height="450">
 
 Hold Down The Shop is a 2 player co-op experience where the players control either the apothecary or the apprentice. The apothecary is in the field communicating with customers and gathering ingredients. The apprentice is holding down the shop and taking orders from the apothecary. Together they must communicate and platform around to create potions for customers. 
 
@@ -35,7 +35,7 @@ Looking back, there's a lot that I would do differently about this project. Firs
 Here is a video that shows off our game:
 
 <figure class="video_container">
-<video width="800" height="600" controls="true" allowfullscreen="true">
+<video width="600" height="450" controls="true" allowfullscreen="true">
   <source src="{{site.url}}{{site.baseurl}}/assets/img/project/shop/hdts.mp4" type="video/mp4">
 Your browser does not support the video tag.
 </video>
