@@ -26,22 +26,22 @@ urls:
 
 author_logo: BrandonBitmoji.png
 author: Brandon L'Abbe
-author_bio: Hi, my name is Brandon L'Abbe. I am currently a 4th-year Game Programming student at Champlain College in Burlington, Vermont. After graduation, I hope to start my career as a Tools & Pipeline programmer in the industry. But I also have interests in programming Engine or working with Systems.
+author_bio: Hi, my name is Brandon L'Abbe. I am currently working remotely as an Associate Programmer for Bend Studio. I am based in Kirkland, Washington. I am currently living my dream career as a Tools & Pipeline programmer in the industry. But I also have interests in programming Engine or working with Systems.
 author_email: "brandonjlabbe@gmail.com"
-author_location: Burlington, Vermont
+author_location: Kirkland, Washington
 author_website_url: "https://brandonjlabbe.com"
 typewrite-text: Tools & Pipeline Game Engineer
 hero_cover_img: sample_cover.jpg # replace this for changing homepage cover (eg. try cover.jpeg). Image should be in /assets/img
 
 # Experiences
 author_work_experiences:
-            - company_name: Champlain College
-              company_logo: SGA_Logo.png
-              company_url: https://champlain.edu
-              designation: Student Government Association President
-              description: "- Restructured Student Government to better represent the Greater Student Body. <br>- Ensured operations of Clubs, Finance, Operations, and Communications to promote change within Champlain College. <br>- Presented these issues to the College President's Cabinet to create innovative solutions."
+            - company_name: Bend Studio
+              company_logo: BendStudio_2022.png
+              company_url: https://bendstudio.com
+              designation: Associate Tools Programmer
+              description: "- Planned and developed prototypes for a character editor tool to aid a character creation pipeline. <br>- Developed and maintained tools that allowed developers to easily launch builds and testing environments.<br>- Participated in a Tools Support rotation where I investigated, logged, and solved bugs, while developing editor debug tools.<br>- Promoted communication with other teams, creating a better understanding of various workflows and pipelines to develop solutions that remove impediments"
               visibility: true
-              height: 300
+              height: 120
               width: 300
             - company_name: Game Developers Conference
               company_logo: gdc.png
